@@ -18,7 +18,7 @@ require 'openssl'
 require 'optparse'
 
 
-ENV['TZ'] = 'GMT'
+# ENV['TZ'] = 'GMT'
 
 
 module Akamai
